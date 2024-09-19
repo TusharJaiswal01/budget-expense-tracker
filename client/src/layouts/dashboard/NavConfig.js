@@ -23,11 +23,11 @@ const navConfig = [
     path: configData.CREATE_GROUP_URL,
     icon: getIcon('fa6-solid:users-gear'),
   },
-  {
-    title: 'About',
-    path: configData.ABOUT_URL,
-    icon: getIcon('fluent:info-12-filled'),
-  },
+  // {
+  //   title: 'About',
+  //   path: configData.ABOUT_URL,
+  //   icon: getIcon('fluent:info-12-filled'),
+  // },
 ];
 
 export default navConfig;
