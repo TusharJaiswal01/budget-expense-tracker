@@ -62,7 +62,7 @@ In the second terminal (*in the project root directory (back-end))
 
 ```
 $ npm install (to install server-side dependencies)
-& npm start (to start the server)
+& npm start (to start the server) to start server
 ```
 
 ## Comment
